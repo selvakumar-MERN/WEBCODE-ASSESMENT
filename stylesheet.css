@@ -1,0 +1,77 @@
+ 
+.fullarea{
+    margin: 20px;
+    box-sizing: border-box;
+} 
+input{
+    width: 30vw;
+    
+}
+
+#search{
+    text-align: right;
+    margin: 20px;
+    
+}
+.heading{
+    text-align: center;
+    background-color: blanchedalmond;
+    
+}
+
+label{
+    font-weight: bold;
+    padding: 5px;
+}
+#headbtn{
+    text-align: center;
+    margin: 20px;
+}
+.btn-list{
+    text-align: center;
+    margin: 10px;
+}
+#main-body{
+    background-color: blanchedalmond;
+    margin-top: 5px;
+}
+.card-header{
+    text-align: center ;
+}
+.btn{
+    padding: 20px;
+}
+.column1{
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.row{
+    padding: 10px;
+}
+.card-text {
+    text-align: center;
+    background-color: whitesmoke
+}
+img{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        background-color:lightgoldenrodyellow
+      
+}
+.card .card-header{
+    background-color: brown;
+}
+h4{
+    color: white;
+    text-transform: capitalize;
+}
+.column1:hover{
+    transform: scale(1.05);
+}
+#pagination{
+    text-align: center;
+    margin:5px
+}
